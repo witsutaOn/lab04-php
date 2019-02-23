@@ -1,0 +1,23 @@
+#index-bg{
+    /*background: #0F2027;  !* fallback for old browsers *!*/
+    background: -webkit-linear-gradient(to right, #2C5364, #203A43, #0F2027);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #2C5364, #203A43, #0F2027); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    font-family: 'Signika Negative', sans-serif;
+}
+#form{
+    width: 40%;
+
+    margin:  10% auto;
+    background-color: whitesmoke;
+    border-radius: 0.7em;
+    padding: 2em;
+}
+#header-form{
+    font-family: 'Patua One', cursive;
+    /*font-family: 'Concert One', cursive;*/
+    text-align: center;
+    padding-bottom: 20px;
+}
+#submitBtn{
+    background-color: #343a40;
+}
